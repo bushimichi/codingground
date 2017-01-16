@@ -1,3 +1,5 @@
 # Hello World program in Python
 
-import json
+print "--------- begin ---------"
+import g_manifest
+print "--------- finish -----------"
